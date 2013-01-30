@@ -6,6 +6,7 @@ To quickly deploy an Express app to Heroku:
 
 ```
 git clone https://github.com/twalling/express-heroku.git
+cd express-heroku
 heroku create
 git push heroku master
 ```
